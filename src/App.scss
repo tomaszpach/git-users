@@ -1,0 +1,14 @@
+$base-background-color: #090a0f;
+$base-text-color: #fff;
+
+.App {
+  text-align: center;
+  background-color: $base-background-color;
+  color: $base-text-color;
+  min-height: 100vh;
+  padding: 1rem;
+
+  h1 {
+    margin-top: 0;
+  }
+}

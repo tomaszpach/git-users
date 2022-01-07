@@ -1,0 +1,14 @@
+.search-input {
+  input {
+    width: calc(100% - 2rem);
+    height: calc(120px - 2rem);
+    font-size: 3rem;
+    background-color: #fff;
+    padding: 1rem;
+    margin-bottom: 1rem;
+
+    &:focus {
+      outline: none;
+    }
+  }
+}

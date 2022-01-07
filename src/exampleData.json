@@ -1,0 +1,82 @@
+{
+  "total_count": 2,
+  "incomplete_results": false,
+  "items": [
+    {
+      "login": "tomaszpaczesny",
+      "id": 14968533,
+      "node_id": "MDQ6VXNlcjE0OTY4NTMz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14968533?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tomaszpaczesny",
+      "html_url": "https://github.com/tomaszpaczesny",
+      "followers_url": "https://api.github.com/users/tomaszpaczesny/followers",
+      "following_url": "https://api.github.com/users/tomaszpaczesny/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tomaszpaczesny/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tomaszpaczesny/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tomaszpaczesny/subscriptions",
+      "organizations_url": "https://api.github.com/users/tomaszpaczesny/orgs",
+      "repos_url": "https://api.github.com/users/tomaszpaczesny/repos",
+      "events_url": "https://api.github.com/users/tomaszpaczesny/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tomaszpaczesny/received_events",
+      "type": "User",
+      "site_admin": false,
+      "score": 1,
+      "text_matches": [
+        {
+          "object_url": "https://api.github.com/users/tomaszpaczesny",
+          "object_type": "User",
+          "property": "login",
+          "fragment": "tomaszpaczesny",
+          "matches": [
+            {
+              "text": "tomaszpaczesny",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "login": "tomaszpach",
+      "id": 34535871,
+      "node_id": "MDQ6VXNlcjM0NTM1ODcx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34535871?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tomaszpach",
+      "html_url": "https://github.com/tomaszpach",
+      "followers_url": "https://api.github.com/users/tomaszpach/followers",
+      "following_url": "https://api.github.com/users/tomaszpach/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tomaszpach/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tomaszpach/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tomaszpach/subscriptions",
+      "organizations_url": "https://api.github.com/users/tomaszpach/orgs",
+      "repos_url": "https://api.github.com/users/tomaszpach/repos",
+      "events_url": "https://api.github.com/users/tomaszpach/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tomaszpach/received_events",
+      "type": "User",
+      "site_admin": false,
+      "score": 1,
+      "text_matches": [
+        {
+          "object_url": "https://api.github.com/users/tomaszpach",
+          "object_type": "User",
+          "property": "login",
+          "fragment": "tomaszpach",
+          "matches": [
+            {
+              "text": "tomaszpach",
+              "indices": [
+                0,
+                10
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

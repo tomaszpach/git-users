@@ -1,0 +1,22 @@
+.loader {
+  width: 40px;
+  margin: 100px auto;
+
+  .preloader {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border: solid 3px;
+    border-color: #555555 transparent;
+    border-radius: 50%;
+    animation: rota 1s ease-in-out infinite;
+  }
+}
+
+@-ms-keyframes rota {
+  to { -ms-transform: rotate(360deg); }
+}
+
+@keyframes rota {
+  to { transform: rotate(360deg); }
+}
